@@ -48,4 +48,4 @@ If you're a hardcore GPU user, and if you are competing with your collegues for 
 
 - Q. You are awesome, how can I help you getting more GPUs?
 - A. Thanks, if you feel that I'm particularly cool to you, just: 
-<a href="https://www.buymeacoffee.com/lakj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="lakj" data-color="#FFDD00" data-emoji="🍕"  data-font="Cookie" data-text="Buy lakj a slice of Pizza" data-outline-color="#000" data-font-color="#000" data-coffee-color="#fff" ></script>
