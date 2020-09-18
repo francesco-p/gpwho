@@ -45,3 +45,7 @@ If you're a hardcore GPU user, and if you are competing with your collegues for 
 
 - Q. I have more than one gpu and I want to control let's say only the second one. How can I do it?
 - A. You have to alter `main_regex` in `gpwho.py` file. In particular you can change the GPU id `r"\[1\] GeForce blabla...`. This tool has been developed for one GPU only but if you want to extend it to handle more than one GPUs make a pr!
+
+- Q. You are awesome, how can I help you getting more GPUs?
+- A. Thanks, if you feel that I'm particularly cool to you, just: 
+<a href="https://www.buymeacoffee.com/lakj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
