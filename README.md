@@ -47,4 +47,4 @@ If you're a hardcore GPU user, and if you are competing with your collegues for 
 - A. You have to alter `main_regex` in `gpwho.py` file. In particular you can change the GPU id `r"\[1\] GeForce blabla...`. This tool has been developed for one GPU only but if you want to extend it to handle more than one GPUs make a pr!
 
 - Q. You are awesome, how can I help you getting more GPUs?
-- A. Thanks, if you feel that I'm particularly cool to you then just consider ["🍕 Buy lakj a slice of Pizza"](https://www.buymeacoffee.com/lakj)
+- A. Thanks, if you feel that I'm particularly cool to you then just consider ["🍕 Buy lakj a slice of Pizza"](https://www.buymeacoffee.com/lakj) I have enough of GPUs...
